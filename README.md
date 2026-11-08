@@ -1,7 +1,7 @@
 # LinkedIn Clean Feed – Chrome Extension
 
 I just wanted to fill the linkedin browser view to fill the page
-> Transform LinkedIn's desktop feed into a cleaner, wider two-column masonry layout with customizable sizes and full-width sidebars.
+> Transform LinkedIn's desktop feed into a cleaner, wider three-column masonry layout with customizable sizes and full-width sidebars.
 
 ## What It Does
 
